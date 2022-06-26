@@ -1,0 +1,17 @@
+Para este problema foi utilizado o modelo PD, sendo dado pela equação de Hill (). Este tem como entrada a 
+concentração de efeito Ce(t), previamente obtida na pergunta P1 (C2), e saída o efeito do fármaco u(t). 
+
+Por um lado, na figura(1) podemos observar a relação entre a concentração do fármaco no compartimento e o seu 
+efeito, enquanto que por outro, na figura (2), podemos observar a variação de efeito u(t) para diferentes valores 
+de dose aplicada. Na figura (2) podemos observar diferentes curvas para cada dosagem, sendo esta última indicada 
+na legenda da figura. 
+
+Em ambos os gráficos podemos notar que quando maior a concentração no sistema, maior será o efeito. No entanto, 
+no primeiro gráfico é facilmente observável a existência de uma saturação da curva quando nos aproximamos de 
+dosagens cada vez maiores. Este acontecimento também é possível ser observado no segundo gráfico: para doses cada
+vez maiores a curva tende para uma assíntota horizontal mais rapidamente do que para doses menores. 
+
+Podemos assim concluir que, para doses cada vez maiores o aumento do efeito não é justificável para a toma das 
+mesmas. Esta concentração no organismo não traria nenhum benefício para o paciente, pois não iria aumentar o 
+seu efeito, provocando assim efeitos negativos devido à elevada dosagem de compostos nocivos(em elevadas doses) 
+no organismo humano. (carece de fontes biomédicas)
